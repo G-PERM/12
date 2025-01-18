@@ -1,15 +1,16 @@
 * {
   padding: 0;
   margin: 0;
-  font-size: 3vw;
   text-align: center;
 }
-body {
+.table-container {
   width: 100vw;
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0;
+  margin: 0;
+  font-size: 3vw;
 }
 table {
   border: 0.5vw solid;
