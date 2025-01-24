@@ -15,11 +15,11 @@
   background-color: transparent;
 }
 table {
-  border: 0.5vw solid;
+  border: 0.5vw solid black;
 }
 th,
 td {
-  border: 0.25vw solid;
+  border: 0.25vw solid black;
 }
 .P5 {
   padding: 1.15vw;
